@@ -29,10 +29,8 @@ Script ini mencakup analisis mendalam sebagai berikut:
 - **K-Means Clustering**: Pengelompokan atlet ke dalam 3 klaster berdasarkan tinggi dan berat badan untuk melihat kemiripan fisik.
 - **Gender Analysis**: Perbandingan jumlah atlet laki-laki dan perempuan.
 
-## Video Presentasi
-
+## Youtube Video
 Untuk penjelasan lebih detail mengenai alur logika kode dan cara membaca grafiknya, silakan tonton video berikut:
+[Lihat di Youtube](https://youtu.be/t-j_Psi21Lo?si=RpDJkAXjA2_2XqOU)
 
-[![Nonton di YouTube](https://youtu.be/t-j_Psi21Lo)](https://www.youtube.com)
 
-*(Klik tombol di atas untuk menuju link video)*
