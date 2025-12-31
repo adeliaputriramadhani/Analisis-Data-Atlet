@@ -13,6 +13,8 @@ Gunakan perintah berikut untuk menginstal semua library yang diperlukan:
 ```
 
 ## Cara Menjalankan Project
+1. Download Repository berikut:
 ```bash
- 
+ https://github.com/adeliaputriramadhani/Analisis-Data-Atlet/blob/main/data_olimpiade.py
 ```
+2. Pastikan file data set 
