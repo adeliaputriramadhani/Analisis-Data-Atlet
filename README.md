@@ -13,10 +13,10 @@ Gunakan perintah berikut untuk menginstal semua library yang diperlukan:
 ```
 
 ## Cara Menjalankan Project
-1. Download Repository berikut:
- https://github.com/adeliaputriramadhani/Analisis-Data-Atlet/blob/main/data_olimpiade.py
-2. Pastikan file data set https://github.com/adeliaputriramadhani/Analisis-Data-Atlet/blob/main/olympians.csv berada di direktori yang sama dengan file script.
-3. Jalankan program melalui terminal/command promt
+1. Download Repository berikut: https://github.com/adeliaputriramadhani/Analisis-Data-Atlet
+2. Download file yang bernama 'data_olimpiade.py'
+3. Pastikan file data set olympians.csv berada di direktori yang sama dengan file script.
+4. Jalankan program melalui terminal/command promt
 
 ## Fitur & Visualisasi
 
