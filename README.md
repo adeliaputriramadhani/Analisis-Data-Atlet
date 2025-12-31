@@ -33,6 +33,6 @@ Script ini mencakup analisis mendalam sebagai berikut:
 
 Untuk penjelasan lebih detail mengenai alur logika kode dan cara membaca grafiknya, silakan tonton video berikut:
 
-[![Nonton di YouTube](https://youtu.be/t-j_Psi21Lo)](https://www.youtube.com/MASUKKAN_ID_VIDEO_DISINI)
+[![Nonton di YouTube](https://youtu.be/t-j_Psi21Lo)](https://www.youtube.com)
 
 *(Klik tombol di atas untuk menuju link video)*
